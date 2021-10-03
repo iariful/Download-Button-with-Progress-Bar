@@ -4,7 +4,6 @@
 
 - HTML
 - CSS
-- JAVASCRIPT
 - VS CODE
 
 Live Project 👎
